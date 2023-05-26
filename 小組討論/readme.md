@@ -39,11 +39,12 @@
 
 ## 小組討論6
 - Q1:Windows update
-  - Threat威脅:
-  - Vuln.脆弱性: 
+  - Threat威脅:      === > 中      普(IDS/IPS SOC監控)
+  - Vuln.脆弱性:     === > 中
 - Q2:機密公文遞送
   - Threat威脅:
   - Vuln.脆弱性:  
+
 ## 小組討論7
 
 ## 小組討論8
